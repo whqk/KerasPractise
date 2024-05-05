@@ -6,4 +6,4 @@
 [莫烦keras视频教程](https://www.bilibili.com/video/av16910214/)  
 
 # 快速阅读  
-[【Keras】快速入门](https://www.jianshu.com/p/e9c1e68a615e)
+[【Keras】快速入门1](https://www.jianshu.com/p/e9c1e68a615e)
